@@ -1,0 +1,23 @@
+{
+  "name": "yhack",
+  "version": "1.0.0",
+  "description": "hackathon at Yhack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonArroyo/Yhack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonArroyo/Yhack/issues"
+  },
+  "homepage": "https://github.com/BrandonArroyo/Yhack#readme",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "nodemon": "^1.8.1"
+  }
+}
