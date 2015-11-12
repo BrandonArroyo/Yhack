@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BrandonArroyo/Yhack#readme",
   "dependencies": {
+    "express": "^4.13.3",
     "jade": "^1.11.0",
     "nodemon": "^1.8.1"
   }

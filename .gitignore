@@ -1,1 +1,7 @@
 node_modules
+data
+local.0
+local.ns
+mongod.lock
+storage.bson
+primer-dataset.json
